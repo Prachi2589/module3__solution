@@ -51,7 +51,7 @@ section {
 	margin-bottom: 0;
 	margin-top: 0;
 	padding: 5px;
-	background-color: #00008B;
+	background-color: #00FF00;
 }
 
 #beef {
@@ -65,7 +65,7 @@ section {
 	margin-bottom: 0;
 	margin-top: 0;
 	padding: 5px;
-	background-color: #00008B;
+	background-color: #8B0000;
 }
 
 #sushi {
@@ -78,7 +78,7 @@ section {
 	font-size: 125%;
 	margin-bottom: 0;
 	margin-top: 0;
-	background-color: #00008B;
+	background-color: #FFFF00;
 	color: white;
 	padding: 5px;
 }
@@ -101,7 +101,7 @@ section {
 .navbar-brand {
   font-size: 2em;
   border: 0 0 10px 10px;
-  color: #800080;
+  color: #922b3e;
 }
 
 #header-nav {
